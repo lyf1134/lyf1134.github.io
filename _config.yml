@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "LYF, LYF Blog, lyf1134 , Li sun, steam"
 url: "http://lyf1134.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/lyf1134/lyf1134.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     
 #zhihu_username:     
 github_username:    lyf1134
-facebook_username:  
+#facebook_username:  
 #jianshu_username:   e71990ada2fd
 twitter_username:   lyf1134
 
